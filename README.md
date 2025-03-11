@@ -15,6 +15,7 @@ Creates a storage account
 # I have creater the S3 bucket in the AWS and created a storage account in Azure and Route 53 in aws to integrate both clouds and constracted a multicloud succesfully 
 **[Documentation.pdf](https://github.com/user-attachments/files/19197422/Documentation.pdf)**
 # I have made a video and uploaded it in the Youtube and pasting the link here
+https://youtu.be/oSdtVD_E4sc
 
 ![Image](https://github.com/user-attachments/assets/0922b5e1-0d28-48b4-82fa-087865128648)
 ![Image](https://github.com/user-attachments/assets/8e18271d-5cf4-4f10-b509-a7a7a5a6158e)
